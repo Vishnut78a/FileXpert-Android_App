@@ -1,5 +1,5 @@
 # FileXpert-Android_App
--Simple filemanager app created using AndroidStudio on language JAVA 
+Simple filemanager app created using AndroidStudio on language JAVA 
 <h3>Home UI :</h3>
 <div>
   <img src = "https://github.com/Vishnut78a/FileXpert-Android_App/assets/91585011/7c898049-3754-4a23-8bab-7c7f9e6c91dc" />
